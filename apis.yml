@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dune.png
 name: Dune
 description: "A simple API which provides you with book, character, movie and quotes JSON data"
 url: https://github.com/ywalia01/dune-api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
